@@ -34,6 +34,14 @@ This repository contains the daily water reservoir level data provided by the **
 
 ---
 
+## The colab analysis contains:
+-*Data Reading*
+-*Data Preprocessing/cleaning*
+-*Pandas Analysis*
+-*Encoding*
+-*Correlation Analysis*
+-*Statistical Analysis*
+
 ## 💡 Use Cases
 
 This dataset can be used in various analytical and operational scenarios, such as:
